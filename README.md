@@ -17,16 +17,3 @@ Explain simple examples:
 
 ---
 
-#### ✅ 5. **How to run tests
-
-Use the command below to run all tests and track coverage:
-
-```bash
-coverage run manage.py test
-
-#### 💾 Save Coverage Report as Text File
-
-To save the coverage summary as a `.txt` file (useful for submission or uploading), run:
-
-```bash
-coverage report > coverage_report.txt
