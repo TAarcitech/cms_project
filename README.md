@@ -112,12 +112,6 @@ cms_project/
 
 ---
 
-## 👤 Author
-
-Developed as part of a Django assignment for API development using best practices.
-
----
-
 ## 📮 Postman Collection
 
 Use the link below to access and import the Postman collection to test all the API endpoints interactively:
@@ -125,5 +119,11 @@ Use the link below to access and import the Postman collection to test all the A
 🔗 Postman Invite Link:
 
 https://app.getpostman.com/join-team?invite_code=5df5aa5384ffb903169b00a1f668c698cd8df50b6f0983eac48cfbbf5c79bab3&target_code=6eb9eaf372527cb01378da06ef412e2a
+
+---
+
+## 👤 Author
+
+Developed as part of a Django assignment for API development using best practices.
 
 ---
